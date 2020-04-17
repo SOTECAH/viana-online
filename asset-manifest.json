@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/viana-online/static/css/main.4f9e7f71.chunk.css",
-    "main.js": "/viana-online/static/js/main.779f5358.chunk.js",
-    "main.js.map": "/viana-online/static/js/main.779f5358.chunk.js.map",
+    "main.js": "/viana-online/static/js/main.49b302b5.chunk.js",
+    "main.js.map": "/viana-online/static/js/main.49b302b5.chunk.js.map",
     "runtime-main.js": "/viana-online/static/js/runtime-main.91b6bc3b.js",
     "runtime-main.js.map": "/viana-online/static/js/runtime-main.91b6bc3b.js.map",
     "static/js/2.b1c38a77.chunk.js": "/viana-online/static/js/2.b1c38a77.chunk.js",
     "static/js/2.b1c38a77.chunk.js.map": "/viana-online/static/js/2.b1c38a77.chunk.js.map",
     "index.html": "/viana-online/index.html",
-    "precache-manifest.0adc6b11ed2c76246aa4b0b7c2a47f90.js": "/viana-online/precache-manifest.0adc6b11ed2c76246aa4b0b7c2a47f90.js",
+    "precache-manifest.c227fcc80d0455f3130f6e0848a471cc.js": "/viana-online/precache-manifest.c227fcc80d0455f3130f6e0848a471cc.js",
     "service-worker.js": "/viana-online/service-worker.js",
     "static/css/main.4f9e7f71.chunk.css.map": "/viana-online/static/css/main.4f9e7f71.chunk.css.map",
     "static/js/2.b1c38a77.chunk.js.LICENSE.txt": "/viana-online/static/js/2.b1c38a77.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.91b6bc3b.js",
     "static/js/2.b1c38a77.chunk.js",
     "static/css/main.4f9e7f71.chunk.css",
-    "static/js/main.779f5358.chunk.js"
+    "static/js/main.49b302b5.chunk.js"
   ]
 }

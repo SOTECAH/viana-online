@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/viana-online/precache-manifest.0adc6b11ed2c76246aa4b0b7c2a47f90.js"
+  "/viana-online/precache-manifest.c227fcc80d0455f3130f6e0848a471cc.js"
 );
 
 self.addEventListener('message', (event) => {

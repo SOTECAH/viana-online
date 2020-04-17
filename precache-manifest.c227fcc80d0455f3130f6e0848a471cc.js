@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17594a4c83c0c6d6c3c6c967e894a6a9",
+    "revision": "d8b925d5bc4bd4d81e29909edd0d3764",
     "url": "/viana-online/index.html"
   },
   {
-    "revision": "f0332ead5d3ea991d1ed",
+    "revision": "896f3ce52dbf95ada8ac",
     "url": "/viana-online/static/css/main.4f9e7f71.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viana-online/static/js/2.b1c38a77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0332ead5d3ea991d1ed",
-    "url": "/viana-online/static/js/main.779f5358.chunk.js"
+    "revision": "896f3ce52dbf95ada8ac",
+    "url": "/viana-online/static/js/main.49b302b5.chunk.js"
   },
   {
     "revision": "64891806d493bb7a07eb",

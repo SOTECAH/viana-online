@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/viana-online/static/css/main.4f9e7f71.chunk.css",
+    "main.js": "/viana-online/static/js/main.779f5358.chunk.js",
+    "main.js.map": "/viana-online/static/js/main.779f5358.chunk.js.map",
+    "runtime-main.js": "/viana-online/static/js/runtime-main.91b6bc3b.js",
+    "runtime-main.js.map": "/viana-online/static/js/runtime-main.91b6bc3b.js.map",
+    "static/js/2.b1c38a77.chunk.js": "/viana-online/static/js/2.b1c38a77.chunk.js",
+    "static/js/2.b1c38a77.chunk.js.map": "/viana-online/static/js/2.b1c38a77.chunk.js.map",
+    "index.html": "/viana-online/index.html",
+    "precache-manifest.0adc6b11ed2c76246aa4b0b7c2a47f90.js": "/viana-online/precache-manifest.0adc6b11ed2c76246aa4b0b7c2a47f90.js",
+    "service-worker.js": "/viana-online/service-worker.js",
+    "static/css/main.4f9e7f71.chunk.css.map": "/viana-online/static/css/main.4f9e7f71.chunk.css.map",
+    "static/js/2.b1c38a77.chunk.js.LICENSE.txt": "/viana-online/static/js/2.b1c38a77.chunk.js.LICENSE.txt",
+    "static/media/aviso.jpg": "/viana-online/static/media/aviso.4f26e296.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b6bc3b.js",
+    "static/js/2.b1c38a77.chunk.js",
+    "static/css/main.4f9e7f71.chunk.css",
+    "static/js/main.779f5358.chunk.js"
+  ]
+}
